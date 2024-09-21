@@ -1,0 +1,16 @@
+A guide for myself coz im not familiar with this framework.
+
+References: 
+A guide to start developing with Svelte.
+https://svelte.dev/blog/svelte-for-new-developers
+
+A guide to deploy Svelte project with Vercel
+https://www.youtube.com/watch?v=M_qtjUBZTOY
+TLDR:
+1. go into project directory
+2. install Vercel npm package
+   - npm i -D vercel
+3. init vercel to log in and link to git repo
+npx vercel
+4. just follow along the guide by using the default settings
+   - note that along this step, it will ask for the project name
