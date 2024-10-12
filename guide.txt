@@ -11,6 +11,6 @@ TLDR:
 2. install Vercel npm package
    - npm i -D vercel
 3. init vercel to log in and link to git repo
-npx vercel
+   - npx vercel
 4. just follow along the guide by using the default settings
    - note that along this step, it will ask for the project name
